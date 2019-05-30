@@ -13,7 +13,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 public class Interview {
 
     @Test
-    public void test(){
+    public void testGetReverseValue(){
         assertThat(getReverseValue(true), is(false));
         assertThat(getReverseValue(false), is(true));
     }
@@ -26,6 +26,6 @@ public class Interview {
      * @return p1의 반대값
      */
     public boolean getReverseValue(boolean p1){
-        //TODO 코드 작성
+        //TODO 이곳에 코드를 작성하여 주세요
     }
 }
