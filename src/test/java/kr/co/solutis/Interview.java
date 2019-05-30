@@ -19,7 +19,9 @@ public class Interview {
     }
 
     /**
-     * 3. 파라미터 p1의 반대값을 리턴하도록 로직을 수정하여 주세요.
+     * 2. 파라미터 p1의 반대값을 리턴하도록 로직을 수정하여 주세요.
+     * p1 값이 true 이면 false를 리턴하고
+     * p1 값이 false 이면 true를 리턴한다.
      * @param p1
      * @return p1의 반대값
      */
