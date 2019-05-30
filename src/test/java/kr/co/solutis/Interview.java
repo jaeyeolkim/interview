@@ -15,14 +15,15 @@ public class Interview {
     @Test
     public void test(){
         assertThat(getReverseValue(true), is(false));
+        assertThat(getReverseValue(false), is(true));
     }
 
     /**
-     * 파라미터 p1의 반대값을 리턴하도록 로직을 수정하여 주세요.
+     * 3. 파라미터 p1의 반대값을 리턴하도록 로직을 수정하여 주세요.
      * @param p1
      * @return p1의 반대값
      */
     public boolean getReverseValue(boolean p1){
-        return false;
+        //TODO 코드 작성
     }
 }
