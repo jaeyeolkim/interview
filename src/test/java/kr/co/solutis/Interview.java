@@ -18,7 +18,7 @@ public class Interview {
     }
 
     /**
-     * 파라미터 p1의 반대값을 리턴하도록 null을 변경하여 주세요.
+     * 파라미터 p1의 반대값을 리턴하도록 로직을 수정하여 주세요.
      * @param p1
      * @return p1의 반대값
      */
